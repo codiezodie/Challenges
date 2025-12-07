@@ -1,5 +1,5 @@
 import java.util.Scanner;
-
+// Correcting previous commit message for product.java
 class product {
     public static void main(String[] args) {
         Scanner input=new Scanner(System.in);
