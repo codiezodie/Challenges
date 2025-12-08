@@ -1,5 +1,5 @@
 import java.util.Scanner;
-
+// Correcting previous commit message for arithmetic_operation program
 class arithmetic_operation {
     public static void main(String[] args){
         Scanner input=new Scanner(System.in);
